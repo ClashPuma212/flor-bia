@@ -56,4 +56,4 @@ setTimeout(function () {
 }, 3000); // Espera 3 segundos antes de ocultar completamente
 }
 
-setTimeout(ocultarTitulo, 210000);
+setTimeout(ocultarTitulo, 180000);
